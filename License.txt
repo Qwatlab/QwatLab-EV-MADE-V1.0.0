@@ -1,0 +1,62 @@
+🇺🇿 Oʻzbek tilida
+QWATLAB OCHIQ EKOTIZIM LITSENZIYASI (QOEL-1.0)
+Versiya 1.0.0
+Mualliflik huquqi (c) 2026, [Sizning Ismingiz Familiyangiz] va QwatLab Research Group.
+Rasmiy dasturiy ta'minot guvohnomasi: DGU 63675 (O'zbekiston Respublikasi Intellektual mulk agentligi).
+QwatLab EV-MADE — elektr transport vositalarini (EV) modellashtirish, simulyatsiya qilish va optimallashtirish uchun mo'ljallangan global, ochiq va abadiy bepul ilmiy dasturiy platformadir. Ushbu litsenziyaning asosiy maqsadi — butun dunyodagi tadqiqotchilar, muhandislar, ta'lim muassasalari va korxonalar erkin foydalanishi, sinovlar o'tkazishi hamda hamkorlikda rivojlantirishi mumkin bo'lgan yagona global ekotizimni yaratishdir.
+
+Dasturdan foydalanish, uni yuklab olish, o'zgartirish kiritish yoki tarqatish orqali siz quyidagi huquqiy shartlarga to'liq rozi bo'lasiz:
+1. GLOBAL HAMKORLIK VA JAMOAAVIY RIVOJLANTIRISH
+Dasturiy ta'minot hamma uchun ochiqdir. Har qanday jismoniy shaxs, ta'lim muassasasi, ilmiy markaz yoki korporatsiya QwatLab'dan bepul foydalanish, uni o'rganish, tahlil qilish va unga asoslangan holda yangi ishlanmalar yaratish huquqiga ega. Platforma butun dunyo hamjamiyatining jamoaviy hissasi orqali rivojlanadi.
+
+2. YAGONA EKOTIZIMGA MAJBURTIY HISSA QO'SHISH (YOPIQ MAXFIYLIKKA TAQIQ)
+QwatLab markazlashgan yagona global ekotizim sifatida ishlaydi. Agar siz yoki tashkilotingiz dastur kodini o'zgartirsa, simulyatsiya algoritmlarini optimallashtirsa yoxud yangi matematik/fizik modellar yaratsa, ushbu barcha funksional yaxshilanishlarni aynan ushbu Litsenziya shartlari ostida QwatLab'ning rasmiy loyiha omboriga (repository) ochiq holda taqdim etishga huquqiy jihatdan majbursiz. Dastur kodini yopiq holda saqlash yoki alohida yopiq loyiha (closed fork) sifatida ajratib olish qat'iyan taqiqlanadi.
+
+3. DASTURNING ABADIY BEPULLIGI VA KODNI TIJORATLASHTIRISH TAQIQLANISHI
+QwatLab dasturiy ta'minoti, uning boshlang'ich kodi, modullari, hosilaviy kodlari va kutubxonalari abadiy bepul bo'lib qoladi. QwatLab kodining o'zini sotish, uni pullik yopiq dasturlar tarkibiga qo'shish, pullik bulutli xizmat (SaaS) sifatida taqdim etish yoki dasturiy kodning o'zidan qandaydir shaklda bevosita moliyaviy daromad olish qat'iyan man etiladi.
+
+4. JISMONIY MAHSULOTLAR UCHUN CHEKLOVSIZ TIJORIY FOYDALANISH
+Foydalanuvchilarga QwatLab orqali olingan simulyatsiya natijalari, hisob-kitoblar va modellardan jismoniy mahsulotlarni (masalan, elektr transport vositalari, batareya tizimlari, elektr dvigatellari, kuch elektronikasi) tadqiq qilish, loyihalash, sinash, ishlab chiqarish va tijoriy sotish uchun hech qanday to'lov yoki ulush (royalti) to'lamasdan bepul foydalanishga to'liq ruxsat beriladi.
+
+5. ETIK TAZYIQLAR, INSON HUQUQLARI VA ATROF-MUHITNI MUHOFAZA QILISH
+- Inson hayoti va huquqlari: Dasturiy ta'minotdan inson hayotiga, sog'lig'iga, jismoniy daxlsizligiga va asosiy inson huquqlariga qasddan zarar yetkazuvchi har qanday faoliyat, loyihalar, qurol-yarag'lar yoki tizimlar uchun foydalanish qat'iyan man etiladi.
+- Atrof-muhit va ekologiya muhofazasi: Dasturiy ta'minotdan atrof-muhitga, bioxilma-xillikka va tabiiy ekologik tizimlarga qasddan yoki og'ir tiklab bo'lmaydigan zarar yetkazuvchi faoliyat uchun foydalanish taqiqlanadi.
+- Barqaror rivojlanish: Dasturdan foydalanish va uni amaliyotga tatbiq etish ekologik xavfsizlik va global barqaror rivojlanish (sustainable development) tamoyillariga to'liq mos bo'lishi shart.
+
+6. MUALLIFLIK HUQUQI VA HISSA QO'SHUVCHILAR E'TIROFI
+Dastlabki mualliflik huquqlari va rasmiy ro'yxatdan o'tish guvohnomasi (DGU 63675) doimiy ravishda saqlanadi. Rasmiy omborga tasdiqlangan o'zgartirishlar yoki yangi modullarni taqdim etgan har bir tadqiqotchi, dasturchi yoki muhandis loyihaning rasmiy `CONTRIBUTORS.md` faylida hammuallif hamda hissa qo'shuvchi sifatida doimiy va rasman qayd etiladi.
+
+7. JAVOBGARLIKDAN VOZ KECHISH
+DASTURIY TA'MINOT "MAVJUD HOLICHA" (AS IS), HECH QANDAY KAFOLATLARSIZ TAQDIM ETILADI. MUALLIFLAR VA HUQUQ EGALLARI DASTURDAN FOYDALANISH YOKI FOYDALANA OLMASLIK NATIJASIDA YUZAGA KELISHI MUMKIN BO'LGAN HAR QANDAY ZARAR, MA'LUMOTLAR YO'QOLISHI YOKI BOSHQA OQIBATLAR UCHUN JAVOBGAR BO'LMAYDI.
+
+🇬🇧 English
+QWATLAB OPEN ECOSYSTEM LICENSE (QOEL-1.0)
+Version 1.0.0
+
+Copyright (c) 2026, [Sizning Ismingiz Familiyangiz] and QwatLab Research Group.
+Official Software Registration Certificate: DGU 63675 (Intellectual Property Agency of the Republic of Uzbekistan).
+QwatLab EV-MADE is an open-access, global, forever-free scientific platform designed for the modeling, simulation, and optimization of electric vehicles (EVs). The foundational objective of this License is to build a unified global ecosystem where researchers, engineers, academic institutions, and enterprises worldwide can freely access, test, and collaboratively advance EV technology.
+By accessing, downloading, modifying, or using the Software, you agree to be bound by the following legally binding terms:
+
+1. GLOBAL OPEN COLLABORATION AND CONTINUOUS DEVELOPMENT
+The Software is open to everyone. Any individual, educational institution, research entity, or corporation has the right to use, study, analyze, and build upon QwatLab. The platform evolves through collective global contributions.
+
+2. MANDATORY CONTRIBUTION TO THE UNIFIED ECOSYSTEM (NO CLOSED FORKS)
+QwatLab operates strictly as a unified, centralized global ecosystem. If you or your organization modify the codebase, optimize simulation algorithms, or develop new mathematical or physical models based on QwatLab, you are legally obligated to publish and submit all functional improvements back to the official QwatLab project repository under this exact License. Maintaining private, closed-source derivative versions or proprietary forks of the Software is strictly prohibited.
+
+3. FOREVER-FREE SOFTWARE AND STRICT NON-COMMERCIALIZATION OF CODE
+The QwatLab software, its source code, modules, derivative code, and libraries are forever free of charge. You are strictly prohibited from selling the QwatLab codebase, embedding it into paid proprietary software, wrapping it as a paid cloud service (SaaS), or monetizing the software code itself in any manner. 
+
+4. UNRESTRICTED COMMERCIALIZATION OF PHYSICAL PRODUCTS
+Users are granted full authorization to use the simulation results, calculations, and models generated by QwatLab to research, design, test, manufacture, and commercialize physical end-products (e.g., electric vehicles, battery management systems, electric motors, power electronics) without any royalty obligations or fees owed to the QwatLab project.
+
+5. ETHICAL SAFEGUARDS, HUMAN RIGHTS, AND ENVIRONMENTAL PROTECTION
+- Human Rights and Life: It is strictly prohibited to use, modify, or deploy the Software for any activities, projects, weapons, or systems designed to cause intentional harm to human life, health, physical integrity, or fundamental human rights.
+- Environmental and Ecological Protection: It is strictly prohibited to use the Software for activities that result in intentional or severe unmitigated harm, degradation, or destruction of natural ecosystems, biodiversity, and the environment.
+- Sustainability Mandate: All deployment and utilization of the Software must strictly comply with ecological safety standards and global principles of sustainable development.
+
+6. PERMANENT AUTHORSHIP RECOGNITION AND CREDIT
+The original authorship and legal registration (DGU 63675) remain permanently preserved. Any individual, academic, or corporate engineer who submits validated code modifications or new functional modules to the official repository will be permanently recognized as an official co-author and contributor in the project's `CONTRIBUTORS.md` file.
+
+7. DISCLAIMER OF WARRANTY AND LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
