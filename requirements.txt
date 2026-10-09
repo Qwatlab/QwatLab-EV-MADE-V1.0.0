@@ -1,0 +1,14 @@
+# QwatLab_EV_MADE_V1_0_0
+# Runtime dependencies detected from the source code.
+# Standard-library modules such as os, tempfile, math, time, io,
+# datetime, zipfile, gc and signal are intentionally not listed.
+
+numpy
+pandas
+scipy
+numba
+streamlit
+plotly
+matplotlib
+openpyxl
+Pillow
