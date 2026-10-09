@@ -1,6 +1,6 @@
 QwatLab EV-MADE V1.0.0
-Please read the license and usage requirements before using the software.
-Dasturdan foydalanishdan avval litsenziya va dasturdan foydalanish talablarini o'qib chiqing.
+Please before using the software, please read the license, software instructions, about the software, and license requirements.
+Dasturdan foydalanishdan avval litsenziya, dasturdan foydalanish yo'riqnomasi, dastur haqida va litsenziya  talablarini o'qib chiqing.
 
 🇺🇿 Oʻzbek tilidagi tavsif
 QwatLab EV-MADE V1.0.0 — elektr transport vositalarining harakat dinamikasi, elektr dvigateli, batareya tizimi, regenerativ tormozlanish, issiqlik boshqaruvi hamda holatni baholash jarayonlarini yagona hisoblash muhitida modellashtirish uchun moʻljallangan Python dasturiy platformasi.
