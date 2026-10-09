@@ -1,7 +1,7 @@
 🇺🇿 Oʻzbek tilida
 QWATLAB OCHIQ EKOTIZIM LITSENZIYASI (QOEL-1.0)
 Versiya 1.0.0
-Mualliflik huquqi (c) 2026, [Sizning Ismingiz Familiyangiz] va QwatLab Research Group.
+Mualliflik huquqi (c) 2026, QwatLab Research Group.
 Rasmiy dasturiy ta'minot guvohnomasi: DGU 63675 (O'zbekiston Respublikasi Intellektual mulk agentligi).
 QwatLab EV-MADE — elektr transport vositalarini (EV) modellashtirish, simulyatsiya qilish va optimallashtirish uchun mo'ljallangan global, ochiq va abadiy bepul ilmiy dasturiy platformadir. Ushbu litsenziyaning asosiy maqsadi — butun dunyodagi tadqiqotchilar, muhandislar, ta'lim muassasalari va korxonalar erkin foydalanishi, sinovlar o'tkazishi hamda hamkorlikda rivojlantirishi mumkin bo'lgan yagona global ekotizimni yaratishdir.
 
@@ -33,7 +33,7 @@ DASTURIY TA'MINOT "MAVJUD HOLICHA" (AS IS), HECH QANDAY KAFOLATLARSIZ TAQDIM ETI
 QWATLAB OPEN ECOSYSTEM LICENSE (QOEL-1.0)
 Version 1.0.0
 
-Copyright (c) 2026, [Sizning Ismingiz Familiyangiz] and QwatLab Research Group.
+Copyright (c) 2026, QwatLab Research Group.
 Official Software Registration Certificate: DGU 63675 (Intellectual Property Agency of the Republic of Uzbekistan).
 QwatLab EV-MADE is an open-access, global, forever-free scientific platform designed for the modeling, simulation, and optimization of electric vehicles (EVs). The foundational objective of this License is to build a unified global ecosystem where researchers, engineers, academic institutions, and enterprises worldwide can freely access, test, and collaboratively advance EV technology.
 By accessing, downloading, modifying, or using the Software, you agree to be bound by the following legally binding terms:
