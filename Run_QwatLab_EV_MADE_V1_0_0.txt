@@ -1,0 +1,2 @@
+python -m streamlit run QwatLab_EV_MADE_V1_0_0.py
+
