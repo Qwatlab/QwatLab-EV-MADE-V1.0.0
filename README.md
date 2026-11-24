@@ -4,6 +4,7 @@ Dasturdan foydalanishdan avval litsenziya, dasturdan foydalanish yo'riqnomasi, d
 
 🇺🇿 Oʻzbek tilidagi tavsif
 QwatLab EV-MADE V1.0.0 — elektr transport vositalarining harakat dinamikasi, elektr dvigateli, batareya tizimi, regenerativ tormozlanish, issiqlik boshqaruvi hamda holatni baholash jarayonlarini yagona hisoblash muhitida modellashtirish uchun moʻljallangan Python dasturiy platformasi.
+V1.1.4 versiya yuklandi, hisoblashdagi xatoliklar tahrirlandi
 Dasturiy platforma tavsifi
 QwatLab EV-MADE V1.0.0 platformasi elektr transport vositalarining harakat dinamikasi, elektr dvigateli, batareya tizimi, regenerativ tormozlanish, issiqlik boshqaruvi hamda holatni baholash jarayonlarini yagona hisoblash muhitida modellashtirish uchun ishlab chiqilgan. Dastur Python dasturlash tilida yaratilgan bo‘lib, hozirgi rivojlanish bosqichida Streamlit freymvorkiga asoslangan interaktiv ilmiy-tadqiqot platformasi sifatida takomillashtirilmoqda.
 Ushbu versiya foydalanuvchiga transport vositasi va batareya parametrlarini kiritish, harakat sikllarini qayta ishlash, kompleks elektro-termal hisoblashlarni amalga oshirish hamda olingan natijalarni grafik va jadval ko‘rinishida tahlil qilish va eksport qilish imkonini beradi.
@@ -53,6 +54,7 @@ QwatLab EV-MADE V1.0 shu tariqa loyihaning Streamlit asosidagi integratsiyalashg
 Software Platform Overview
 The QwatLab EV-MADE V1.0.0 platform models the driving dynamics, electric motor, battery system, regenerative braking, thermal management, and state estimation of electric vehicles within a single computational environment. We built this software in Python. In its current development phase, it operates as an interactive research platform based on the Streamlit framework.
 This version allows users to input vehicle and battery parameters, process drive cycles, and execute complex electro-thermal calculations. Users can also analyze and export the results in graphical and tabular formats.
+Uploaded V1.1.4, corrected errors in previous calculations
 Core Computational and Analytical Features
 QwatLab EV-MADE V1.0.0 includes the following capabilities:
 - Longitudinal driving dynamics: calculating aerodynamic drag, rolling resistance, road gradient, and inertial forces.
